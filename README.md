@@ -1,2 +1,5 @@
 # HW_dev
-Hardware Development
+Hardware Development.
+- Logical design
+- Physical design
+- Libraries
