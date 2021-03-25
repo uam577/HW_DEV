@@ -1,4 +1,4 @@
-# HW_dev
+# HW_DEV
 Hardware Development.
 - Logical design
 - Physical design
